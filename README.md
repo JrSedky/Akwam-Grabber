@@ -22,5 +22,5 @@ The stream link will be provided
 # Limitations
 This script is intended for educational purposes only and should not be used to access copyrighted content illegally. It is the user's responsibility to use the provided stream link in a legal manner.
 
-# Download the installtion
+# Download the installation
 https://github.com/JrSedky/Akwam-Grabber/releases
