@@ -13,10 +13,10 @@ requests
 bs4 (BeautifulSoup)
 
 # How to use
-Run the script
-Enter the movie name to search for
-Select the desired movie from the search results
-Select the desired quality from the available options
+Run the script  
+Enter the movie name to search for  
+Select the desired movie from the search results  
+Select the desired quality from the available options  
 The stream link will be provided
 
 # Limitations
