@@ -7,8 +7,8 @@ This script allows you to search for movies and select a movie to stream. It wil
 # Dependencies
 This script uses the following Python packages:
 
-requests
-\nbs4 (BeautifulSoup)
+requests  
+bs4 (BeautifulSoup)
 
 # How to use
 Run the script
